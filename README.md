@@ -1,1 +1,1 @@
-# Simple-Calculator-Python
+# Indolike-Python-Internship-Projects
